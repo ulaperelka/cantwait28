@@ -29,6 +29,13 @@
             {
               "client_id": "822669715879-g1t2l3qefeg6128egps10jquergtf7ah.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "822669715879-qnj2dd9jhgcm9n66al2rdt7qe9o3akj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ulaperelka.cantwait28"
+              }
             }
           ]
         }
